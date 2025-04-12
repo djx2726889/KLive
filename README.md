@@ -5,7 +5,7 @@ This project presents a novel approach to live streaming highlight prediction us
 
 We conducted extensive experiments on our newly constructed **KLive** dataset, which contains a large-scale collection of live streaming data, demonstrating that our model outperforms existing baselines in both real-world scenarios and public datasets. The results indicate that our approach significantly improves the accuracy of highlight detection in live streaming environments.
 
-We are excited to announce the release of the **KLive** dataset, which can be accessed [here](KLive/src/dataset/README.md).
+We are excited to announce the release of the **KLive** dataset, which can be accessed [here](src/dataset/README.md).
 
 ## Citation
 If you find our work useful, please cite it as follows:
