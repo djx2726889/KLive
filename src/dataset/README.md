@@ -41,3 +41,19 @@ There are eight files ```xx_test_score_infer_output.log``` in train or test fold
 | lvtr | A continuous feedback signal indicating the long-view rate of current streaming frame. | float64 | 0.83838385 |
 | image_feaure | The image feature of current streaming frame. | float64 list | [-0.0198211669921875, 0.06585693359375,...] |
 | text_feaure | The textual feature of current streaming frame. | float64 list | [-0.0638892874121666, 0.0496613085269928,...] |
+
+## Citation
+If you find our work useful, please cite it as follows:
+
+```
+@INPROCEEDINGS{10687664,
+  author={Deng, Jiaxin and Wang, Shiyao and Shen, Dong and Zhao, Liqin and Yang, Fan and Zhou, Guorui and Meng, Gaofeng},
+  booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={A Multimodal Transformer for Live Streaming Highlight Prediction}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Visualization;Codes;Fuses;Annotations;Streaming media;Predictive models;Transformers;Multimodal Transformer;Modality Temporal Alignment;Border-aware Pairwise Loss;Live Streaming Highlight Prediction},
+  doi={10.1109/ICME57554.2024.10687664}}
+```
